@@ -6,9 +6,9 @@
 
 A creative development studio focused on **software, games, technology, and experimental projects**.
 
-[![Website](https://img.shields.io/badge/Website-VOIDFORGE-111111?style=for-the-badge)](#)
+[![Website](https://img.shields.io/badge/Website-VOIDFORGE-111111?style=for-the-badge)](https://voidforgestudios.github.io/#)
 [![GitHub](https://img.shields.io/badge/GitHub-VOIDFORGE-111111?style=for-the-badge\&logo=github)](#)
-[![Discord](https://img.shields.io/badge/Discord-Community-111111?style=for-the-badge\&logo=discord)](#)
+[![Discord](https://img.shields.io/badge/Discord-Community-111111?style=for-the-badge\&logo=discord)](https://discord.gg/5Yya36GPyA)
 
 </div>
 
